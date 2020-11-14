@@ -1,8 +1,8 @@
-### 14.11.2020
+### 14.11.2020 Saturday, nice day
 Include the date you created this project and README file.
 
 
-### Git Project
+### Git Project (Programming for Data Science with Python Nanodegree Program)
 Replace the Project Title
 
 ### Git and Github
